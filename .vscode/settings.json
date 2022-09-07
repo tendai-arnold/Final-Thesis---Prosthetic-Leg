@@ -1,0 +1,22 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "Accelerometry",
+        "dataframe",
+        "iloc",
+        "matlib",
+        "matplotlib",
+        "mpimg",
+        "Mulit",
+        "plotly",
+        "problemless",
+        "pyplot",
+        "radialaxis",
+        "Scatterpolar",
+        "seaborn",
+        "showlegend",
+        "sympt",
+        "toself",
+        "xaxes"
+    ]
+}
